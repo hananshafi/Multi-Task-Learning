@@ -26,7 +26,7 @@ Data | Network details| Tasks | Task loss weights  | Regularization
 ---- | -------------- | ----- | ------------ | --------------- 
 CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction | [1, 0.5, 1] | single Dropout layer (0.2)
 
-![exp 2](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/Untitled%20drawing(1).jpg)
+![exp 2](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_2_paint.jpg)
 
 ---
 
@@ -37,7 +37,7 @@ Data | Network details| Tasks | Task loss weights  | Regularization
 ---- | -------------- | ----- | ------------ | --------------- 
 CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction | [0.5, 0.1, 1] | Dropout layer (0.2) after each Conv layer
 
-![exp 2](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/Untitled%20drawing(1).jpg)
+![exp 3](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_3.jpg)
 
 ---
 
@@ -48,7 +48,7 @@ Data | Network details| Tasks | Task loss weights  | Regularization
 ---- | -------------- | ----- | ------------ | --------------- 
 CIFAR-10 | 2-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction | [0.5, 0.1, 1] | Dropout layer (0.2)
 
-![exp 2](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/Untitled%20drawing(1).jpg)
+![exp 4](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_4.jpg)
 
 ---
 
@@ -60,5 +60,5 @@ Data | Network details| Tasks | Task loss weights  | Regularization
 ---- | -------------- | ----- | ------------ | --------------- 
 CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction, Task d: random binary task | [0.5,0.1,1,0.1] | Dropout layer (0.2) after each Conv layer
 
-![exp 2](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/Untitled%20drawing(1).jpg)
+![exp 5](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_5.jpg)
 
