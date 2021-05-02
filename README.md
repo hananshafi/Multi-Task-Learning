@@ -62,6 +62,7 @@ CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 
 ![exp 5](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_5.jpg)
 
+---
 
 ## Experiment 6
 
