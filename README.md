@@ -13,6 +13,15 @@ CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 
 ---
 
+## Experiment 2
+
+
+Data | Network details| Tasks | Task loss weights  | Regularization
+---- | -------------- | ----- | ------------ | --------------- 
+CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction | [1, 0.5, 1] | single Dropout layer
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/Untitled%20drawing(1).jpg)
+
 
     
            
