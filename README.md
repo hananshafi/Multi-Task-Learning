@@ -9,7 +9,9 @@ Data | Network details| Tasks | Task loss weights  | Regularization
 ---- | -------------- | ----- | ------------ | --------------- 
 CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction | [1, 0.5, 1] | None
 
-![Exp 1](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp1loss.png)
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp1loss.png)
+
+---
 
 
     
