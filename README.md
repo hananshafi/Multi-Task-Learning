@@ -2,6 +2,11 @@
 This repo contains code and exhaustive experiments on smart multi-task learning
 
 
+## Model Architecture
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/mtl_model.jpg)
+
+
 ## Experiment 1
 
 
