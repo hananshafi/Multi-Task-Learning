@@ -62,3 +62,13 @@ CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 
 ![exp 5](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_5.jpg)
 
+
+## Experiment 6
+
+
+Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
+---- | -------------- | ----- | ------------------ | -------------- | ------------------ 
+CIFAR-10 | 3-layered shared Network with Geometric mean of losses | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction| no weights | Dropout layer (0.2) after each Conv layer | Train_Loss: 0.3363
+
+![exp 6](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp_5.jpg)
+
