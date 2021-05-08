@@ -93,3 +93,9 @@ CIFAR-10 | standard 3-layered encoder-decoder, num_filters=[8,16,32], latent=32,
 
 ![exp 6](https://github.com/hananshafi/Multi-Task-Learning/blob/main/single-task-baselines/assets/recon_base_VI.png)
 
+### Sample reconstructed images
+    Model: 2-layered, num_filters=[16,32], latent = 32
+    
+   ![exp 6](https://github.com/hananshafi/Multi-Task-Learning/blob/main/single-task-baselines/assets/reconstructed_images.png)
+    
+
