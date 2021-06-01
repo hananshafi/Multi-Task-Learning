@@ -71,7 +71,15 @@ Val_Acc: 0.839 |  Val_Acc: 0.775   |  Val_Acc: 0.738 |  Val_Acc: 0.722 | Val_Acc
 
 ### Loss Visualizations
 
+#### Sum of Losses
+
 ![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/loss_curves.png)
+
+
+#### Average of Losses
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/loss_curve_2.png)
+
+
 
 
 
