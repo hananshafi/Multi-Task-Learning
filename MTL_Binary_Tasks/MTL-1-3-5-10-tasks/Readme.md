@@ -44,12 +44,12 @@ Val_Acc: 0.839 |  Val_Acc: 0.775   |  Val_Acc: 0.738 |  Val_Acc: 0.722 | Val_Acc
        Mean Task-3 Accuracy = 0.7526
        Standard Deviation (SD) = 0.00321
        --------------------------------------------
-       Task-3 accuracies = [ 0.7416 , 0.733 , 0.736 ]
-       Mean Task-3 Accuracy = 0.737
+       Task-4 accuracies = [ 0.7416 , 0.733 , 0.736 ]
+       Mean Task-4 Accuracy = 0.737
        Standard Deviation (SD) = 0.00436
        --------------------------------------------
-       Task-3 accuracies = [ 0.744 , 0.741 , 0.731 ]
-       Mean Task-3 Accuracy = 0.738
+       Task-5 accuracies = [ 0.744 , 0.741 , 0.731 ]
+       Mean Task-5 Accuracy = 0.738
        Standard Deviation (SD) = 0.0068
        
 ---
