@@ -79,6 +79,48 @@ Val_Acc: 0.839 |  Val_Acc: 0.775   |  Val_Acc: 0.738 |  Val_Acc: 0.722 | Val_Acc
 #### Average of Losses
 ![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/loss_curve_2.png)
 
+---
+
+#### Average Losses of all Tasks - Real + Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/all_curves.png)
+
+
+#### Average Loss - 10 Real + 10 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_10_random_10.png)
+
+
+#### Average Loss - 20 Real + 10 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_20_random_10.png)
+
+
+#### Average Loss - 40 Real + 10 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_40_random_10.png)
+
+
+#### Average Loss - 90 Real + 10 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_90_random_10.png)
+
+
+#### Average Loss - 80 Real + 20 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_80_random_20.png)
+
+
+#### Average Loss - 60 Real + 40 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_60_random_40.png)
+
+
+#### Average Loss - 50 Real + 50 Random
+
+![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/MTL_Binary_Tasks/MTL-1-3-5-10-tasks/assets/real_50_random_50.png)
+
+
 
 
 
