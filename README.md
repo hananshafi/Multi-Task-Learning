@@ -8,18 +8,9 @@ This repo contains code and exhaustive experiments on smart multi-task learning
 
 ---
 
+
+
 ## Experiment 1
-
-
-Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
----- | -------------- | ----- | -----------------  | -------------- | ------------------
-CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs non-animal,Task c: reconstruction | [1, 0.5, 1] | None | Train_Loss: 0.2414, Val_Loss: 2.3439
-
-![alt text](https://github.com/hananshafi/Multi-Task-Learning/blob/main/assets/exp1loss.png)
-
----
-
-## Experiment 2
 
 
 Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
@@ -30,7 +21,7 @@ CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 
 ---
 
-## Experiment 3
+## Experiment 2
 
 
 Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
@@ -41,7 +32,7 @@ CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 
 ---
 
-## Experiment 4
+## Experiment 3
 
 
 Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
@@ -53,7 +44,7 @@ CIFAR-10 | 2-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 ---
 
 
-## Experiment 5
+## Experiment 4
 
 
 Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
@@ -64,7 +55,7 @@ CIFAR-10 | 3-layered shared Network | Task a: cifar10 classes, Task b: animal vs
 
 ---
 
-## Experiment 6
+## Experiment 5
 
 
 Data | Network details| Tasks | Task loss weights  | Regularization | Approx. Total_loss
